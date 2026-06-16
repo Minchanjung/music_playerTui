@@ -1,0 +1,2 @@
+void initCurses();
+void drawUi();
